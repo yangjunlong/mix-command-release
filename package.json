@@ -1,0 +1,43 @@
+{
+    "name": "mix-command-release",
+    "description": "mix release command.",
+    "version": "0.0.1",
+    "main": "release.js",
+    "scripts": {
+        "test": "echo \\\"Error: no test specified\\\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yangjunlong/mix-command-release.git"
+    },
+    "dependencies": {
+        
+    },
+    "keywords": [
+        "mix",
+        "fis",
+        "release"
+    ],
+    "author": {
+        "name": "sobird",
+        "email": "sobird@126.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/yangjunlong/mix-command-release/blob/master/LICENSE"
+        }
+    ],
+    "bugs": {
+        "url": "https://github.com/yangjunlong/mix-command-release/issues"
+    },
+    "readme": "",
+    "readmeFilename": "README.md",
+    "homepage": "https://github.com/yangjunlong/mix-command-release#readme",
+    "maintainers": [
+        {
+            "name": "sobird",
+            "email": "sobird@126.com"
+        }
+    ]
+}
