@@ -11,7 +11,9 @@
         "url": "git+https://github.com/yangjunlong/mix-command-release.git"
     },
     "dependencies": {
-        
+        "async": "2.0.1",
+        "chokidar": "1.6.0",
+        "livereload-server-spec": "0.2.3"
     },
     "keywords": [
         "mix",
