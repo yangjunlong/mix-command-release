@@ -110,7 +110,7 @@ exports.register = function (commander) {
             }
 
             if(options.live){
-
+            	util.live();
             }
 
             switch (typeof options.md5){

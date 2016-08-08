@@ -1,7 +1,7 @@
 {
     "name": "mix-command-release",
     "description": "mix release command.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "release.js",
     "scripts": {
         "test": "echo \\\"Error: no test specified\\\" && exit 1"
